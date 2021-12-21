@@ -1,6 +1,6 @@
 Character.create([
-	{ name: "Neo", description: false },
-	{ name: "Trinity", description: false },
-	{ name: "Morpheus", description: false },
-	{ name: "Agent Smith", description: false },
+	{ name: "Neo", description: "Cool guy"},
+	{ name: "Trinity", description: "Cool girl"},
+	{ name: "Morpheus", description: "Boss man"},
+	{ name: "Agent Smith", description: "Bad Guy"},
 ])
