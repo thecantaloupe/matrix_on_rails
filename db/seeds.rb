@@ -4,3 +4,7 @@ Character.create([
 	{ name: "Morpheus", description: "Boss man"},
 	{ name: "Agent Smith", description: "Bad Guy"},
 ])
+
+Vehicle.create([
+    { name: "Nebuchadnezzar", style: "Spaceship"},
+])
